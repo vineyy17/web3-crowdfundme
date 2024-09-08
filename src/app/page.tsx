@@ -5,7 +5,7 @@ import { client } from "./client";
 import { sepolia } from "thirdweb/chains";
 import { getContract } from "thirdweb";
 import { CROWDFUNDING_FACTORY } from "./constants/contracts";
-import { CampaignCard } from "./components/CampaignCard";
+import { CampaignCard } from "../components/CampaignCard";
 
 export default function Home() {
    // Get CrowdfundingFactory contract
