@@ -1,0 +1,6 @@
+[submodule "contracts/crowd-fund-me/lib/forge-std"]
+	path = contracts/crowd-fund-me/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
+[submodule "crowdfundingcontracts/lib/forge-std"]
+	path = crowdfundingcontracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std.git
